@@ -5,3 +5,10 @@ defined_text = {
 		localization_key = "2"
 	}
 }
+defined_text = {
+	name = GetGreatGameInfluenceFrame2
+	text = {
+		trigger = { is_owned_by = ENG }
+		localization_key = "2"
+	}
+}
